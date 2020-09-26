@@ -178,6 +178,7 @@ return [
 
         // Infyom
         \InfyOm\RoutesExplorer\RoutesExplorerServiceProvider::class,
+        \InfyOm\GeneratorBuilder\GeneratorBuilderServiceProvider::class,
     ],
 
     /*
