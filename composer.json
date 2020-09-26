@@ -13,6 +13,7 @@
         "fideloper/proxy": "^4.0",
         "infyomlabs/coreui-templates": "6.0.x-dev",
         "infyomlabs/laravel-generator": "6.0.x-dev",
+        "infyomlabs/routes-explorer": "dev-master",
         "laravel/framework": "^6.18.35",
         "laravel/tinker": "^2.0",
         "laravelcollective/html": "^6.0"
